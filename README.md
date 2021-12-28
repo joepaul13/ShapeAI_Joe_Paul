@@ -1,2 +1,2 @@
 # Web-Development
-This repository contains a few web development projects done with Node and Express
+This is a simple BMI calculator created with HTML, CSS and JavaScript
